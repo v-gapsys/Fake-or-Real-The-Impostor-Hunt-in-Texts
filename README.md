@@ -20,9 +20,9 @@ While this result places us in the middle tier, it's important to note that:
 
 For comparison, in the more popular "Titanic - Machine Learning from Disaster" competition, I achieved a result among the top 10%. However, the Titanic competition was significantly less challenging compared to this NLP task.
 
-## 🛠️ Technical Approach
+### Technical Approach
 
-### 🧠 Model Architecture
+### Model Architecture
 The solution implements an **Improved DistilBERT + TextRCNN** architecture:
 
 - **DistilBERT**: Lightweight, distilled version maintaining 97% of BERT's performance
@@ -38,7 +38,7 @@ The solution implements an **Improved DistilBERT + TextRCNN** architecture:
 - **Early Stopping**: Patience-based stopping with validation monitoring
 
 
-## 🚀 Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 - Python 3.8+
