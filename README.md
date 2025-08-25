@@ -71,13 +71,8 @@ The solution implements an **Improved DistilBERT + TextRCNN** architecture:
 4. **Download data locally** 
    - Extract to `train/` and `test/` directories
    - Ensure `train.csv` is in the root directory
-   - **Local data is essential** - the dataset contains 1000+ articles
+   - Dataset contains 1000+ articles
 
-##  Results & Performance
 
-### Competition Screenshots
-![Competition Results](Screenshot%202025-08-22%20at%2016.56.24.png)
-
-![Additional Competition Results](Screenshot%202025-08-20%20at%2014.32.11.png)
 
 
