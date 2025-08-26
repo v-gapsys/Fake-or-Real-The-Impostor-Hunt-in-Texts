@@ -11,7 +11,7 @@ The competition focused on document authenticity classification, where participa
 - **Final Ranking**: 155-160 out of 671 participants
 - **Performance**: Close to top 20% mark
 - **Competition Type**: Prize competition with prepared participants
-- **Submission Timing**: Late submission during competition closure
+  
 
 ###  Context & Achievement
 While this result places us in the middle tier, it's important to note that:
